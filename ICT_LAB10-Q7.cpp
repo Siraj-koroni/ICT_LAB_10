@@ -38,7 +38,8 @@ int main() {
     s.addCourse("Computer Science");
     s.addCourse("English");
     s.addCourse("Chemistry");
-    s.addCourse("History"); // should be rejected
+    s.addCourse("History");
 
     return 0;
 }
+
