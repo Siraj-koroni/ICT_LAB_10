@@ -64,10 +64,11 @@ int main() {
     p.setAge(22);
     p.setSeatNumber("12A");
 
-    p.setAge(150);       // invalid
-    p.setSeatNumber("AB1"); // invalid
+    p.setAge(150);       
+    p.setSeatNumber("AB1"); 
 
     p.showInfo();
 
     return 0;
+
 }
